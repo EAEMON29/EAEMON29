@@ -10,7 +10,7 @@ Your Readme is Done 🎉🎉🎉
 Star This Project
 Fork on Github
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is  Ishtiyak Ahmed Imon and I'm a MERN FONTED DEVELOPER, from BD CALLING IT</h2>
 
 ###
 
@@ -21,7 +21,7 @@ Fork on Github
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/hR6Q01jCXOr31wctJw"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJpbTYybXYzOG9jNzN5MHE4eW95emJ0dHZ6bDNsOHM3YnhqemJvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hR6Q01jCXOr31wctJw/giphy.gif"  />
 
 ###
 
@@ -56,7 +56,7 @@ Fork on Github
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 A white circle with a dark file icon outlined in the center
